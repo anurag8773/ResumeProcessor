@@ -182,7 +182,7 @@ curl -X POST -F "resume=@/path/to/resume.pdf" http://127.0.0.1:8000/api/extract_
 
 You can import the following Postman collection to test the API:
 
-1. Download the [Postman collection JSON file](<your-postman-collection-url>).
+1. Download the [Postman collection JSON file](https://documenter.getpostman.com/view/37271849/2sAYQWKDKq).
 2. Open Postman.
 3. Click on "Import" and upload the downloaded file.
 4. Use the imported collection to test the API.
