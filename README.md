@@ -191,7 +191,7 @@ You can import the following Postman collection to test the API:
 
 ## Video Description
 
-For a step-by-step guide, watch the [video description](<your-video-url>), where we walk you through the setup, configuration, and testing of the API.
+For a step-by-step guide, watch the [video description](https://drive.google.com/drive/folders/1wvq5NYMqULZZjLiwPiUWv357Afydj1xd?usp=sharing), where we walk you through the setup, configuration, and testing of the API.
 
 ---
 
